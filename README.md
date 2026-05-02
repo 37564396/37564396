@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:## こんにちは👋
+## こんにちは👋
 
 これらの言語とツールを勉強しています:
 
